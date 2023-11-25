@@ -1,0 +1,586 @@
+@media screen and (max-width: 1230px) {
+  .contact-6 {
+    gap: 30px;
+    justify-content: flex-start;
+  }
+  .random-section {
+    justify-content: flex-start;
+    min-height: 700px;
+    gap: 50px;
+  }
+
+  .left-contact-6 {
+    gap: 35px;
+    max-width: 80vw;
+  }
+
+  .left-contact-6 h1 {
+    font-size: 3rem;
+  }
+  .left-contact-6 p {
+    font-size: 0.8rem;
+  }
+  .right-contact-6 {
+    gap: 18px;
+  }
+  .slider-content-2{
+    font-size: 9.5rem;
+  }
+  .content-2 h2 {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .hero-2 {
+    width: 98vw;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .content-2 {
+    gap: 30px;
+  }
+
+  .content-2 h1 {
+    font-size: 2.5rem;
+  }
+  .content-2 h2 {
+    font-size: 3.5rem;
+  }
+  .content-2 p {
+    font-size: 0.8rem;
+    line-height: 23px;
+  }
+  .slider-content-2{
+    font-size: 9rem;
+  }
+  .menu-links-1 a {
+    transform: translateX(12%);
+  }
+}
+
+/* // */
+@media screen and (max-width: 1060px) {
+  .image-3 {
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .hero-2 {
+    width: 95vw;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .content-2 {
+    gap: 25px;
+  }
+
+  .content-2 h1 {
+    font-size: 2rem;
+  }
+  .content-2 h2 {
+    font-size: 3rem;
+  }
+
+  .content-2 p {
+    font-size: 0.7rem;
+    line-height: 20px;
+  }
+  .img-section-2 .image-2 img {
+    width: 450px;
+  }
+
+}
+
+/* // */
+
+@media screen and (max-width: 950px) {
+  section {
+    scroll-snap-align: start;
+  }
+
+.main-4 h1{
+  font-size: 2rem;
+}
+.project-3 .content-3 h2{
+  font-size: 2rem;
+  padding-top: 20px;
+}
+.hero-2 {
+  width: 98vw;
+  justify-content: center;
+  gap: 10px;
+  height: 70vh;
+}
+}
+
+@media screen and (max-width: 850px) {
+  .navbar {
+    width: 98vw;
+  }
+
+  .links-1 {
+    gap: 8px;
+  }
+  .main-5 h1 {
+    margin: 30px auto 15px;
+    font-size: 2rem;
+  }
+  .main-contact a{
+    font-size: 2rem;
+ }
+ .slider-content-2{
+  font-size: 7rem;
+}
+}
+
+/* // */
+
+@media screen and (max-width: 730px) {
+  .hero-2 {
+    width: 95vw;
+    justify-content: center;
+    gap: 0;
+  }
+
+  .content-2 {
+    gap: 10px;
+    margin-left: 10px;
+  }
+
+  .content-2 h1 {
+    font-size: 1.5rem;
+  }
+  .content-2 h2 {
+    font-size: 2.5rem;
+  }
+
+  .content-2 p {
+    font-size: 0.6rem;
+    line-height: 18px;
+  }
+  .img-section-2 .image-2 img {
+    width: 400px;
+
+  }
+  .img-container-3 {
+    min-height: 80vh;
+    width: 420px;
+    border-radius: 20px;
+    display: flex;
+    gap: 40px;
+    padding: 20px;
+    overflow: hidden;
+  }
+
+  .img-container-3 img {
+    width: 380px;
+    transition: all 0.5s;
+    border-radius: 15px;
+    box-shadow: 0 0 50px white;
+  }
+  .content-5 p{
+    font-size: 0.8rem;
+    line-height: 10px;
+    width: 420px
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .project-3 .content-3 h2 {
+    font-size: 2.2rem;
+  }
+
+  .img-container-3 {
+    min-height: 80vh;
+    width: 340px;
+    gap: 120px;
+  }
+
+  .img-container-3 img {
+    width: 300px;
+  }
+  .image-3 button {
+    font-size: 3rem;
+  }
+
+  .education-5 .image-5 img {
+    width: 400px;
+  }
+  .image-5 {
+    transition: all 0.2s;
+  }
+
+  .image-5:hover .content-5 {
+    gap: 8px;
+  }
+
+  .content-5 p {
+    font-size: 0.6rem;
+    width: 350px;
+  }
+  .content-5 h2 {
+    font-size: 1.2rem;
+  }
+  .slider-content-2{
+    font-size: 5.8rem;
+  }
+}
+
+/* // */
+@media screen and (max-width: 640px) {
+  .contact-6 {
+    gap: 40px;
+    justify-content: flex-start;
+  }
+
+  .main-contact{
+    flex-direction: column;
+
+  }
+  .main-contact .content-6{
+    display: flex;
+    flex-direction: column;
+  }
+  .random-section {
+    justify-content: flex-start;
+    min-height: 700px;
+    gap: 50px;
+  }
+  .our-email-6{
+    display: flex;
+    gap: 10px;
+  }
+
+  .left-contact-6 {
+    gap: 35px;
+    max-width: 80vw;
+  }
+
+  .left-contact-6 h1 {
+    font-size: 2.5rem;
+  }
+  .left-contact-6 p {
+    font-size: 0.7rem;
+  }
+  .right-contact-6 {
+    gap: 16px;
+  }
+
+.right-contact-6 .firstname-1{
+  gap: 18px;
+}
+
+.right-contact-6 .firstname-1 div{
+  gap: 9px;
+}
+
+.right-contact-6 .firstname-1 div input{
+  width:215px;
+}
+
+.email-6{
+  gap: 8px;
+}
+.email-6 input{
+  width: 450px;
+}
+.text-area-6{
+  gap: 8px;
+}
+
+.text-area-6 textarea{
+  max-width: 450px;
+}
+
+.our-email-6{
+  display: flex;
+  gap: 10px;
+  font-size: 0.5rem;
+}
+
+
+}
+
+/* // */
+
+@media screen and (max-width: 600px) {
+  .menu-links-1 {
+    font-size: 1rem;
+  }
+  .slider-content-2{
+    font-size: 5.1rem;
+  }
+
+}
+
+/* /// */
+
+@media screen and (max-width: 550px) {
+  .project-3 .content-3 h2 {
+    font-size: 2rem;
+  }
+  .hero-2 {
+    width: 97vw;
+    gap: 10px;
+    justify-content: center;
+  }
+
+  .content-2 {
+    gap: 40px;
+  }
+
+  .content-2 h1 {
+    font-size: 1.5rem;
+  }
+  .content-2 h2 {
+    font-size: 2.5rem;
+  }
+
+  .content-2 p {
+    font-size: 0.7rem;
+    line-height: 15px;
+  }
+  .img-section-2 .image-2 img {
+    height: 500px;
+    object-fit: cover;
+    width: 200px;
+  }
+  .slider-content-2{
+    font-size: 4.8rem;
+  }
+}
+
+/* // */
+@media screen and (max-width: 520px) {
+  .education-5 .image-5 img {
+    width: 360px;
+  }
+  .image-5 {
+    transition: all 0.2s;
+  }
+
+  .image-5:hover .content-5 {
+    gap: 7px;
+  }
+
+  .content-5 p {
+    font-size: 0.5rem;
+    width: 320px;
+  }
+  .content-5 h2 {
+    font-size: 1rem;
+  }
+  .main-5 h1 {
+    margin: 30px auto 15px;
+    font-size: 1.7rem;
+  }
+}
+
+/* // */
+
+@media screen and (max-width: 500px) {
+  .nav-left-1 {
+    gap: 10px;
+  }
+  .links-1 {
+    gap: 5px;
+  }
+  .links-1 a {
+    font-size: 12px;
+  }
+  .menu-square-1 {
+    width: 320px;
+  }
+  .menu-links-1 {
+    font-size: 0.8rem;
+  }
+  .menu-links-1 a {
+    transform: translateX(14%);
+  }
+  .image-3 {
+    gap: 5px;
+  }
+  .img-container-3 {
+    min-height: 80vh;
+    width: 300px;
+    gap: 160px;
+  }
+
+  .img-container-3 img {
+    width: 260px;
+    box-shadow: 0 0 50px white;
+  }
+  .image-3 button {
+    font-size: 2.2rem;
+  }
+
+  .contact-6 {
+    gap: 40px;
+    justify-content: flex-start;
+  }
+
+  .main-contact{
+    flex-direction: column;
+  }
+  .main-contact .content-6{
+    display: flex;
+    flex-direction: column;
+  }
+  .random-section {
+    justify-content: flex-start;
+    min-height: 700px;
+    gap: 40px;
+  }
+  .our-email-6{
+    display: flex;
+    gap: 10px;
+  }
+
+  .left-contact-6 {
+    gap: 30px;
+    max-width: 80vw;
+  }
+
+  .left-contact-6 h1 {
+    font-size: 2rem;
+  }
+  .left-contact-6 p {
+    font-size: 0.7rem;
+  }
+  .right-contact-6 {
+    gap: 15px;
+  }
+
+.right-contact-6 .firstname-1{
+  gap: 17px;
+}
+
+.right-contact-6 .firstname-1 div{
+  gap: 8.5px;
+}
+
+.right-contact-6 .firstname-1 div input{
+  width:180px;
+}
+
+.email-6{
+  gap: 8px;
+}
+.email-6 input{
+  width: 380px;
+}
+.text-area-6{
+  gap: 8px;
+}
+
+.text-area-6 textarea{
+  max-width: 450px;
+}
+
+
+}
+
+@media screen and (max-width: 430px) {
+  .image-3 {
+    gap: 3px;
+  }
+  .img-container-3 {
+    min-height: 80vh;
+    width: 260px;
+    gap: 200px;
+  }
+
+  .img-container-3 img {
+    width: 220px;
+    object-fit: fill;
+    box-shadow: 0 0 50px white;
+  }
+  .image-3 button {
+    font-size: 2rem;
+  }
+
+  .education-5 .image-5 img {
+    width: 320px;
+    border-radius: 15px;
+  }
+
+  .image-5:hover .content-5 {
+    gap: 7px;
+    border-radius: 15px;
+  }
+
+  .content-5 p {
+    font-size: 0.45rem;
+    width: 280px;
+  }
+  .content-5 h2 {
+    font-size: 0.75rem;
+  }
+  .main-5 h1 {
+    margin: 30px auto 15px;
+    font-size: 1.5rem;
+  }
+
+
+
+  .contact-6 {
+    gap: 35px;
+  }
+
+  .our-email-6{
+    display: flex;
+    gap: 10px;
+  }
+
+  .left-contact-6 {
+    gap: 30px;
+    max-width: 80vw;
+  }
+
+  .left-contact-6 h1 {
+    font-size: 1.8rem;
+  }
+  .left-contact-6 p {
+    font-size: 0.65rem;
+  }
+  .right-contact-6 {
+    gap: 14px;
+  }
+
+.right-contact-6 .firstname-1{
+  gap: 16px;
+}
+
+.right-contact-6 .firstname-1 div{
+  gap: 8px;
+}
+
+.right-contact-6 .firstname-1 div input{
+  width:150px;
+  padding: 12px;
+}
+
+.email-6{
+  gap: 8px;
+}
+.email-6 input{
+  width: 320px;
+  padding: 12px;
+
+}
+.text-area-6{
+  gap: 8px;
+}
+
+.text-area-6 textarea{
+  max-width: 450px;
+}
+.slider-content-2{
+  font-size: 3.3rem;
+}
+
+}
